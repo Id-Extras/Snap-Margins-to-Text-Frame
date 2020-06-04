@@ -1,6 +1,8 @@
 ﻿// Snap Margins to Text Frame	BS"D
-// Copyright (c) by Ariel Walden, www.Id-Extras.com, 2020
-// Version 1.0,0
+// Copyright (c) 2020 Ariel Walden, www.Id-Extras.com. All rights reserved.
+// This work is licensed under the terms of the MIT license.  
+// The full text of the license can be read here: <https://opensource.org/licenses/MIT>.
+// Version 1.0.0
 //DESCRIPTION: Modify the document margins easily and visually instead of fiddling about with numbers in the Margins and Columns dialog. This script will modify the document's margins throughout to match the selected text frame.
 //TO USE: Draw or select a text frame on a right-hand (odd-numbered) page and run the script.
 // The document's margins will be modified to match the selected frame.
